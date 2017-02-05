@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>KaratCSS Website</title>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=0.7">
+<link href="https://fonts.googleapis.com/css?family=Iceland|Lato" rel="stylesheet">
+  
+  <link rel='stylesheet prefetch' href='dist/karat.css'>
+
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+  <html>
+    <body>
+        <ul>
+            <li><a class="active" href="#">Download <i class="fa fa-download"></i></a></li>
+            <li><a href="#doc">Docs <i class="fa fa-th-list"></i></a></li>
+            <li><a href="#about">About <i class="fa fa-question-circle"></i></a></li>
+            <li><a href="#home">Home <i class="fa fa-home"></i></a></li>
+        </ul>
+        <div class="social">
+            <a class="github-button" href="https://github.com/Sidthecoder" data-style="mega" aria-label="Follow @Sidthecoder on GitHub">Follow @Sidthecoder (Founder)</a>
+            <a class="github-button" href="https://github.com/Sidthecoder/KaratCSS" data-icon="octicon-star" data-style="mega" aria-label="Star Sidthecoder/KaratCSS on GitHub">Star Karat Repository on GitHub</a>
+        </div>
+        <img src="https://raw.githubusercontent.com/Sidthecoder/KaratCSS/master/css/logo2.png" class="logo">
+        <section id="home">
+            <h1 class="title">Karat</h1>
+            <h3 class="subtitle">An Actually Minimal CSS Boilerplate</h3>
+        </section>
+        <section id="docs">
+            <div class="container">
+                <p class="i-t" id="about">About</p>
+                <p class="des">Karat is a responsive, minimal CSS Framework. Unlike other frameworks, like Bootstrap and Foundation, Karat gives only the bare essentials. It even better than other "minimal frameworks" that include UI that you never use, and only sit in your &lt;head&gt;
+                    tag slowing down your website.
+                </p>
+              <img src="http://forthebadge.com/images/badges/built-with-love.svg"> 
+              <img src="http://forthebadge.com/images/badges/uses-css.svg">
+                <div class="row">
+                    <div class="col col-4">
+                        <div class="align-center">
+                            <i class="fa fa-balance-scale icons"></i>
+                        </div>
+                        <p class="show">Minimal</p>
+                    </div>
+                    <div class="col col-4">
+                        <div class="align-center">
+                            <i class="fa fa-tablet icons"></i>
+                        </div>
+                        <p class="show">Responsive</p>
+                    </div>
+                    <div class="col col-4">
+                        <div class="align-center">
+                            <i class="fa fa-signal icons"></i>
+                        </div>
+                        <p class="show">Fast</p>
+                    </div>
+                </div>
+                <p class="i-t" id="doc">Docs</p>
+                <p class="des">Put the code below in your &lt;head&gt; tag</p>
+                <pre><code>Coming Soon</code></pre>
+                <p class="des">NPM Install - Coming Soon</p>
+                <p class="des">CDN - Coming Soon</p>
+                <p class="des">JSDelivr - Coming Soon</p>
+                <p class="i-t">Grid System</p>
+                <p class="des">Karat comes with a 12-Column respinsive grid system. Try resizing your page to see how the grid resizes. The grid can be use for making things like Karat's about page.</p>
+                <div class="gridSystem">
+                    <div class="row">
+                        <div class="col col-1">ONE</div>
+                        <div class="col col-11">ELEVEN</div>
+                    </div>
+                    <div class="row">
+                        <div class="col col-2">TWO</div>
+                        <div class="col col-10">TEN</div>
+                    </div>
+                    <div class="row">
+                        <div class="col col-3">THREE</div>
+                        <div class="col col-9">NINE</div>
+                    </div>
+                    <div class="row">
+                        <div class="col col-4">FOUR</div>
+                        <div class="col col-8">EIGHT</div>
+                    </div>
+                    <div class="row">
+                        <div class="col col-5">FIVE</div>
+                        <div class="col col-7">SEVEN</div>
+                    </div>
+                    <div class="row">
+                        <div class="col col-6">SIX</div>
+                        <div class="col col-6">SIX</div>
+                    </div>
+                    <div class="row">
+                        <div class="col col-7">SEVEN</div>
+                        <div class="col col-5">FIVE</div>
+                    </div>
+                    <div class="row">
+                        <div class="col col-8">EIGHT</div>
+                        <div class="col col-4">FOUR</div>
+                    </div>
+                    <div class="row">
+                        <div class="col col-9">NINE</div>
+                        <div class="col col-3">THREE</div>
+                    </div>
+                    <div class="row">
+                        <div class="col col-10">TEN</div>
+                        <div class="col col-2">TWO</div>
+                    </div>
+                    <div class="row">
+                        <div class="col col-11">ELEVEN</div>
+                        <div class="col col-1">ONE</div>
+                    </div>
+                </div>
+                <pre><code>
+   &lt;!-- Start a row with a row div --&gt;<br />
+<br />
+   &lt;div class="row"&gt;<br />
+<br />
+        &lt;!-- Use the class col col-x for the 12 columns --&gt;<br />
+<br />
+        &lt;div class="col col-6"&gt;six&lt;/div&gt;<br />
+<br />
+        &lt;div class="col col-6"&gt;six&lt;/div&gt;<br />
+<br />
+    &lt;/div&gt;
+    </code></pre>
+                <p class="des">You can put more that 2 cols.</p>
+                <p class="i-t">Containers</p>
+                <p class="des">Containers let you add padding to the sides of a website, and make it look better. Karat's container is responsive and gets smaller when the page is smaller. You can also add this class to &lt;body&gt; or other tags.</p>
+                <code>&lt;div class="container"&gt;</code>
+                <p class="des"><b>With Container:</b></p>
+                <p class="des">Lorem ipsum dolor. Sit amet ac. Et vel eu. Ligula condimentum malesuada. Mattis vitae nec in est quis. Lacinia purus suspendisse felis ducimus placerat. Volutpat massa tellus.</p>
+                <p class="des"><b>Without Container</b></p>
+            </div>
+            <p class="des">Lorem ipsum dolor. Sit amet ac. Et vel eu. Ligula condimentum malesuada. Mattis vitae nec in est quis. Lacinia purus suspendisse felis ducimus placerat. Volutpat massa tellus.</p>
+            <div class="container">
+                <p class="i-t">Padding Element</p>
+                <p class="des">Add a padding between elements by putting this in a div. This rule can also break text.</p>
+                <div class="row">
+                    <div class="col col-4">
+                        <p class="des"><code>padding-0</code> 0px</p>
+                        <div class="padding-0"></div>
+                        <p class="des">0px padding</p>
+                    </div>
+                    <div class="col col-4">
+                        <p class="des"><code>padding-5</code> 5px</p>
+                        <div class="padding-5"></div>
+                        <p class="des">5px padding</p>
+                    </div>
+                    <div class="col col-4">
+                        <p class="des"><code>padding-10</code> 10px</p>
+                        <div class="padding-10"></div>
+                        <p class="des">10px padding</p>
+                    </div>
+                </div>
+                <p class="des">
+                <pre><code>
+&lt;div class="padding-0"&gt;&lt;/div&gt; &lt;!-- 0px padding --&gt;<br />
+&lt;div class="padding-5"&gt;&lt;/div&gt; &lt;!-- 5px padding --&gt;<br />
+&lt;div class="padding-10"&gt;&lt;/div&gt; &lt;!-- 10px padding --&gt;  
+            </code></pre>
+                </p>
+                <p class="i-t">Classes</p>
+                <p class="des"><code>align-center</code>Center align anything. (Images too)
+                <div class="align-center"><img src="http://www.w3schools.com/w3css/img_fjords.jpg" width="10%"></div>
+                </p>
+          <p class="des">Want more? Check out <a href="https://www.custommarkup.ml/">Custom Markup</a>, or make a pull request</p>
+          <a href="#" class="madeby">Made by Sid</a>
+            </div>
+        </section>
+    </body>
+</html>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
+<script src='https://buttons.github.io/buttons.js'></script>
+
+    <script src="js/index.js"></script>
+
+</body>
+</html>
