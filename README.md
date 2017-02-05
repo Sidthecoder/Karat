@@ -7,7 +7,7 @@ A Responsive Mimimal CSS Framework
 
 ## You should use it
 
-Karat is a really minimal CSS framework. Unlike other frameworks like Bootstrap and Foundation, this framework has only the stuff you need. There's no UI that you never use. Karat is only **1.03 KB**. Enjoy!
+Karat is a really minimal CSS framework. Unlike other frameworks like Bootstrap and Foundation (or other "minimal frameworks", this framework has only the stuff you need. There's no UI that you never use. That makes Karat only **1.03 KB** minifed. Enjoy!
 
 ## Get it started
 
@@ -18,7 +18,5 @@ Karat is a really minimal CSS framework. Unlike other frameworks like Bootstrap 
 ```
 
 Visit [UseKarat.ml](http://usekarat.ml) for the docs
-
-<img src="css/logo.png" width="200">
 
 # <a href="http://thatsid.ml/" class="madeby">#Made By Sid</a>
