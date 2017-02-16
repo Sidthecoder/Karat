@@ -11,6 +11,11 @@ h3 {
   position: relative;
   margin-bottom: 0px;
   font-family: 'Iceland';
+      color: #1e90ff;
+  
+  background: url('http://www.ukwallpaper.co.uk/imgs/products/large/squ601jpg-large.jpg') center center;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
 }
 
 h4 {
@@ -35,7 +40,6 @@ h1 {
 font-family: 'Monoton', cursive;
 }
 p {
-    color: #1e90ff;
     position: absolute;
     color: #1e90ff;
   
