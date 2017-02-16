@@ -1,6 +1,6 @@
 <img src="css/logo.png" width="200"/>
 
-# [Karat v1.3](http://usekarat.ml)
+# [🥕 Karat v1.3](http://usekarat.ml)
 A Responsive Mimimal CSS Framework
 
 [![forthebadge](http://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/gluten-free.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/certified-cousin-terio.svg)](http://forthebadge.com)
