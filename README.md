@@ -1,7 +1,7 @@
 <img src="https://github.com/Sidthecoder/Karat-Website/blob/master/css/logo.png" width="200"/>
 
-# [Karat] [v1.3]
-A Responsive Mimimal CSS Framework
+# Karat [v1.3]
+A Mimimal CSS Boilerplate
 
 [![forthebadge](http://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com) 
 
