@@ -1,6 +1,6 @@
 <img src="https://github.com/Sidthecoder/Karat-Website/blob/master/css/logo.png" width="200"/>
 
-# [🥕 Karat v1.3](http://usekarat.ml)
+# [Karat] [v1.3]
 A Responsive Mimimal CSS Framework
 
 [![forthebadge](http://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com) 
