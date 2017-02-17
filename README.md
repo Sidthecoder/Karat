@@ -1,4 +1,4 @@
-<img src="css/logo.png" width="200"/>
+<img src="https://github.com/Sidthecoder/Karat-Website/blob/master/css/logo.png" width="200"/>
 
 # [🥕 Karat v1.3](http://usekarat.ml)
 A Responsive Mimimal CSS Framework
