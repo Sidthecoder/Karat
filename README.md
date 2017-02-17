@@ -6,12 +6,10 @@ A Mimimal CSS Boilerplate
 [![forthebadge](http://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com) 
 
 ## Table of Contents
-**
+  
   - <a href="#about">About</a>
   - <a href="#docs">Documentation</a>
   - <a href="#feat">Features</a>
-
-**
 
 <a name="about"></a>
 ## About
