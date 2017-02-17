@@ -3,20 +3,54 @@
 # [🥕 Karat v1.3](http://usekarat.ml)
 A Responsive Mimimal CSS Framework
 
-[![forthebadge](http://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/gluten-free.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/certified-cousin-terio.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com) 
 
-## You should use it
+## Table of Contents
+**- <a href="#about">About</a>
+  - <a href="#docs">Documentation</a>
+  - <a href="#feat">Features</a>
+**
+
+<a name="about"></a>
+## About
 
 Karat is a really minimal CSS framework. Unlike other frameworks like Bootstrap and Foundation (or other "minimal frameworks", this framework has only the stuff you need. There's no UI that you never use. That makes Karat only **1.03 KB** minifed. Enjoy!
 
-## Get it started
+## Documentation
 
-**Link to It**
+**Direct Link:**
 
 ```html
 <link rel='stylesheet' href='https://github.com/Sidthecoder/Karat/blob/master/dist/karat.css'>
 ```
 
-Visit [UseKarat.ml](http://usekarat.ml) for the docs
+**NPM:**
 
-# <a href="http://thatsid.ml/" class="madeby">#Made By Sid</a>
+```shell
+Coming Soon
+```
+
+**Bower:**
+
+```shell
+Coming soon
+```
+
+<a name="feat"></a>
+## Features
+**[Feature1 title]:**
+[Insert feature here]
+
+**[Feature2 title]:**
+[Insert feature here]
+
+**[Feature3 title]:**
+[Insert feature here]
+
+**[Feature4 title]:**
+[Insert feature here]
+
+**[Feature5 title]:**
+[Insert feature here]
+
+**Made with love**
