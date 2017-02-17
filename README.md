@@ -39,18 +39,23 @@ Coming soon
 <a name="feat"></a>
 ## Features
 **[Feature1 title]:**
+
 [Insert feature here]
 
 **[Feature2 title]:**
+
 [Insert feature here]
 
 **[Feature3 title]:**
+
 [Insert feature here]
 
 **[Feature4 title]:**
+
 [Insert feature here]
 
 **[Feature5 title]:**
+
 [Insert feature here]
 
 **Made with love**
