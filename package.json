@@ -1,0 +1,40 @@
+{
+  "name": "karatcss",
+  "version": "0.0.0",
+  "description": "An actually minimal CSS framework.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sidthecoder/Karat.git"
+  },
+  "keywords": [
+    "karat",
+    "karatcss",
+    "css",
+    "minimal framework",
+    "minimal css framework"
+  ],
+  "author": "Sid Hegde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sidthecoder/Karat/issues"
+  },
+  "homepage": "http://karat.gq",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/talonbragg/Mr.Node.git",
+    "basePath": "./dist/",
+    "files": [
+      "main.css",
+      "main.min.css"
+    ]
+  },
+  "devDependencies": {
+   "gulp" : "latest",
+   "gulp-minify-css" : "latest",
+   "gulp-load-plugins" : "latest"
+  }
+}
