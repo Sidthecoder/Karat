@@ -3,7 +3,7 @@
 # Karat [v1.3]
 A Mimimal CSS Boilerplate
 
-[![forthebadge](http://forthebadge.com/images/badges/uses-css.svg)]()[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) 
+[![forthebadge](http://forthebadge.com/images/badges/uses-css.svg)]() [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) 
 
 ## Table of Contents
   
