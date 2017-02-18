@@ -14,7 +14,7 @@ A Mimimal CSS Boilerplate
 <a name="about"></a>
 ## About
 
-Karat is a really minimal CSS framework. Unlike other frameworks like Bootstrap and Foundation, this boilerplate has only the stuff you need... and more. Guess what? That makes Karat only **1.03 KB** minifed! Enjoy!
+Karat is a really minimal CSS framework. Unlike other frameworks like Bootstrap and Foundation, this boilerplate has only the stuff you need.... Guess what? That makes Karat only **1.03 KB** minifed! Enjoy!
 
 ## Documentation
 
@@ -36,28 +36,4 @@ Coming Soon
 Coming soon
 ```
 
-<a name="feat"></a>
-## Features
-**[Feature1 title]:**
-
-[Insert feature here]
-
-**[Feature2 title]:**
-
-[Insert feature here]
-
-**[Feature3 title]:**
-
-[Insert feature here]
-
-**[Feature4 title]:**
-
-[Insert feature here]
-
-**[Feature5 title]:**
-
-[Insert feature here]
-
-
-
-**Made with love**
+**Made with love by Sid, Talon, and Shreyas**
