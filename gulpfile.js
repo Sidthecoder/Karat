@@ -5,7 +5,7 @@
     var $ = require('gulp-load-plugins')();    
 
     gulp.task('minify', function() {
-        return gulp.src(['src/grid.css', 'src/padding.css'])
+        return gulp.src(['public/grid.css', 'public/padding.css'])
             .pipe(minifyCSS())
             .pipe($.header(comment))
             .pipe($.size())
