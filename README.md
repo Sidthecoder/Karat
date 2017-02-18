@@ -3,7 +3,7 @@
 # Karat [v1.3]
 A Mimimal CSS Boilerplate
 
-[![forthebadge](http://forthebadge.com/images/badges/uses-css.svg)]() [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) 
+<img src="https://github.com/Sidthecoder/Karat-Website/blob/master/badges/CSS.png?raw=true"><img src="https://github.com/Sidthecoder/Karat-Website/blob/master/badges/Only%201KB.png?raw=true"><img src="https://github.com/Sidthecoder/Karat-Website/blob/master/badges/Responsive.png?raw=true">
 
 ## Table of Contents
   
