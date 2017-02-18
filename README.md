@@ -3,7 +3,7 @@
 # Karat [v1.3]
 A Mimimal CSS Boilerplate
 
-<img src="https://github.com/Sidthecoder/Karat-Website/blob/master/badges/CSS.png?raw=true" width="50%"><img src="https://github.com/Sidthecoder/Karat-Website/blob/master/badges/Only%201KB.png?raw=true"><img src="https://github.com/Sidthecoder/Karat-Website/blob/master/badges/Responsive.png?raw=true">
+<img src="https://github.com/Sidthecoder/Karat-Website/blob/master/badges/CSS.png?raw=true" width="200%"><img src="https://github.com/Sidthecoder/Karat-Website/blob/master/badges/Only%201KB.png?raw=true"><img src="https://github.com/Sidthecoder/Karat-Website/blob/master/badges/Responsive.png?raw=true">
 
 ## Table of Contents
   
