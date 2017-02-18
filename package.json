@@ -33,8 +33,8 @@
     ]
   },
   "devDependencies": {
-   "gulp" : "latest",
-   "gulp-minify-css" : "latest",
-   "gulp-load-plugins" : "latest"
+   "gulp" : "@3.9.1",
+   "gulp-minify-css" : "@1.2.4",
+   "gulp-load-plugins" : "@1.5.0"
   }
 }
