@@ -36,4 +36,4 @@ Coming Soon
 Coming soon
 ```
 
-# Made with ⚡ & ❤ by Sid, Talon, and Shreyas
+** Made with ⚡ & ❤ by Sid, Talon, and Shreyas **
