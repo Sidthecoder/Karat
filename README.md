@@ -2,6 +2,7 @@
 
 # Karat [v1.3]
 A Mimimal CSS Boilerplate
+### [karat.gq](http://karat.gq)
 
 <img src="https://github.com/Sidthecoder/Karat-Website/blob/master/badges/CSS.png?raw=true" width="25%"> <img src="https://github.com/Sidthecoder/Karat-Website/blob/master/badges/Responsive.png?raw=true" width="25%">
 
@@ -12,11 +13,10 @@ A Mimimal CSS Boilerplate
   - <a href="#feat">Features</a>
 
 <a name="about"></a>
+
 ## About
 
 Karat is a really minimal CSS boilerplate. Unlike other frameworks/boilerplates like Bootstrap and Foundation, this boilerplate has only the stuff you need.. Guess what? That makes Karat only **1.03 KB** minifed! Enjoy!
-
-## Documentation
 
 **Direct Link:**
 
